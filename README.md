@@ -1,5 +1,7 @@
-# Hey this is subham
-# I made something cool have a look at this outline
+#Hey this is subham,
+#I made something cool have a look at this outline
+
+#import.py Requirement
 
 1. Problem Statement:
 Create a program that embeds a secret message into an image using pixel manipulation. The message should be retrievable only with a correct passcode, ensuring data security. The program should handle errors like invalid inputs, insufficient image dimensions, and incorrect passcodes.
